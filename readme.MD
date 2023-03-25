@@ -8,6 +8,8 @@ Um projeto inicial, criado com react no curso da rocketseat
 - React
 - styled-componets
 - Outras tecnologias utilizadas
+- typescript
+- React Router Dom
 
 ## Requisitos
 
