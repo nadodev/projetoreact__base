@@ -1,6 +1,7 @@
 # Título do Projeto
 
 Um projeto inicial, criado com react no curso da rocketseat
+- O projeto se trata de um timer
 
 ## Tecnologias Utilizadas
 
